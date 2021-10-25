@@ -1,20 +1,21 @@
 ### Hello World! I'm Wallysson! 👋
 
 - 🔭 I’m currently working on CEL - Consultoria e Empreendimentos LTDA
-- 🤯 My next steps: React and Node  
 - 🎓 I’m studying Computer Science
-- 😄 Pronouns: My friends call me SonSon!
+- 🤯 My next steps: React and Node  
 - 👀 Looking for opportunities in Full-Stack and Front-End
 - 🧾 In order to help with open projects
+- 😄 Nickname: My friends call me SonSon!
 - 😅 Fun fact: I'm Pokémon TCG's player
-<br>
 
+##
+<br>
 <div align="center">
   <a href="https://github.com/Wallysson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wallysson&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wallysson&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  <br>
+
   
   ##
   

@@ -6,7 +6,7 @@
 - 👀 Looking for opportunities in Full-Stack and Front-End
 - 🧾 In order to help with open projects
 - 😄 Nickname: My friends call me SonSon!
-- 😅 Fun fact: I'm Pokémon TCG's player
+- 😅 Fun fact: I'm Pokémon TCG player
 
 ##
 <br>

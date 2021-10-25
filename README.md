@@ -1,4 +1,4 @@
-### Hello World! I'm Wallysson! 👋
+### Hello World, I'm Wallysson! 👋
 
 - 🔭 I’m currently working on CEL - Consultoria e Empreendimentos LTDA
 - 🎓 I’m studying Computer Science

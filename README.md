@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on CEL - Consultoria e Empreendimentos LTDA
 - 🎓 I’m studying Computer Science
-- 🤯 My next steps: React and Node  
+- 🤯 My next steps: Node and AWS
 - 👀 Looking for opportunities in Web Front-End
 - 🧾 In order to help with open projects
 - 😄 Nickname: My friends call me SonSon!

@@ -1,6 +1,6 @@
 # Hello World, I'm Wallysson! 👋
 
-- 🔭 I’m currently working at CEL - Consultoria e Empreendimentos LTDA and as a Full Stack Developer at Edil System!
+- 🔭 I’m currently working at Bem Protege Tech.
 - 🎓 I’m studying Computer Science.
 - 😄 Nickname: My friends call me SonSon!
 - 😅 Fun fact: I'm a Pokémon TCG player.

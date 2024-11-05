@@ -9,27 +9,21 @@
 
 <div align="center">
 
-  <!-- Título com animação -->
   <h2>✨ GitHub Stats & Activity ✨</h2>
   
-  <!-- GitHub Stats Card -->
   <a href="https://github.com/Wallysson">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wallysson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   </a>
   
-  <!-- Most Used Languages Card -->
   <a href="https://github.com/Wallysson">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wallysson&layout=compact&langs_count=10&theme=tokyonight" alt="Top Languages"/>
   </a>
   
-  <!-- Total Stars Card -->
   <a href="https://github.com/Wallysson">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Wallysson&theme=tokyonight" alt="GitHub Streak"/>
   </a>
   
-  <!-- Contributions Graph -->
-![Snake animation](https://github.com/Wallysson/Wallysson/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/Wallysson/Wallysson/blob/main/dist/github-snake.svg)
 
 </div>
 

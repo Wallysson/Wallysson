@@ -22,8 +22,7 @@
   <a href="https://github.com/Wallysson">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Wallysson&theme=tokyonight" alt="GitHub Streak"/>
   </a>
-  
-![Snake animation](https://github.com/Wallysson/Wallysson/blob/main/dist/github-snake.svg)
+
 
 </div>
 
